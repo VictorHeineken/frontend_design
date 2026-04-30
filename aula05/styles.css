@@ -1,0 +1,39 @@
+.containter-pai {
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+.filho {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border: 2px dotted;
+}
+
+
+.item1 {
+    background-color: lightblue;
+
+}
+
+.item2 {
+    background-color: lightgreen;
+
+}
+
+.item3 {
+    background-color: lightcoral;
+
+}
+
+.item4 {
+    background-color: lightsalmon;
+
+}
+
+.item5 {
+    background-color: lightseagreen;
+
+}
